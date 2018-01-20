@@ -3,8 +3,11 @@ Miwok Android app, which can be used to learn Miwok language with respect to it'
 
 
 What I learned new by creating this app:
+
 a) To create a custom ArrayAdapter
+
 b) Use of AudioManager Class
+
 c) Right structure and way to handle audio(i.e. audio focus) while using MediaPlayer class
 
 
